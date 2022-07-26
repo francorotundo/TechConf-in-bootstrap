@@ -1,5 +1,6 @@
 #header img {
-    width: 80px;
+    width: 30px;
+    margin-right: 10px;
 }
 
 #carouselExampleSlidesOnly img {
@@ -28,17 +29,22 @@
 
 }
 
-.text-platzi {
+h1 img {
+    width: 50px;
+    margin-right: 10px;
+}
+.text-tech {
     color: #97c93e !important;
 }
 
-.btn-platzi {
+.btn-tech {
     background-color: #97c93e;
     color: white;
 }
 
-.btn-platzi:hover {
+.btn-tech:hover {
     background-color: #82ad36;
+    color: white;
 }
 
 .badge {
